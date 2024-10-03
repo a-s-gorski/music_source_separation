@@ -1,0 +1,13 @@
+librosa
+museval
+h5py
+pytorch_lightning==1.2.1
+numpy
+matplotlib
+musdb
+museval
+# samplerate
+tqdm
+ipykernel
+torchlibrosa
+inplace-abn
